@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/head
 
 ---
 
-## ⚙️ Modelización y Justificación
+## ⚙️ Modelado y Justificación
 
 Durante la construcción de modelos se consideraron diferentes algoritmos, destacando:
 
@@ -67,11 +67,9 @@ Ejemplos de visualizaciones generadas:
 
 Hacer click en el circulo ovalado rojo que ves en la foto: 
 
-<img width="1718" height="642" alt="image" src="https://github.com/user-attachments/assets/e7e6f417-81fa-40f6-92dd-57cdd745974f" />
-
+<img width="1718" height="640" alt="image" src="https://github.com/user-attachments/assets/0a5bba05-f9eb-4ec0-9bb4-eaf8a915cf2d" />
 
 2. Abrir notebooks/TelecomX_ML.ipynb en Jupyter Notebook o JupyterLab.
-
 
 📌 Conclusiones Generales
 
