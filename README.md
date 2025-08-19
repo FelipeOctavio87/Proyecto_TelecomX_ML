@@ -6,7 +6,6 @@ README
 Este proyecto forma parte del análisis de **Telecom X**, cuyo propósito principal es **predecir la cancelación de clientes (Churn)** a partir de un conjunto de variables relevantes. El estudio busca identificar patrones de comportamiento en los usuarios y apoyar la toma de decisiones estratégicas en la retención de clientes.
 
 
-
 ## 🗂️ Fuentes Principales de Data (Links)
 
 https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/preprocessed_TelecomX_data.json
