@@ -80,5 +80,5 @@ El proyecto proporciona un marco de análisis aplicable a problemas similares en
 
 👤 Autor
 
-Felipe Rebolledo
+Felipe Octavio Rebolledo Robert
 Proyecto académico/profesional de análisis de datos y machine learning aplicado al sector telecomunicaciones.
