@@ -7,20 +7,7 @@ Este proyecto forma parte del análisis de **Telecom X**, cuyo propósito princi
 
 ---
 
-## 🗂️ Estructura del Proyecto
-
-TelecomX_Parte2/
-│── data/
-│ ├── Obtenemos la data de la URL = "https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/preprocessed_TelecomX_data.json"
-│
-│── notebooks/
-│ ├── TelecomX_ML.ipynb # Cuaderno principal del análisis
-│
-│── visualizations/
-│ ├── *.png / *.jpg # Gráficos generados en el EDA y modelización
-│
-│── README.md # Documentación del proyecto
-
+## 🗂️ Obteniendo la data pre-procesada de la URL: "https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/preprocessed_TelecomX_data.json"
 
 ---
 ## 🔎 Proceso de Preparación de los Datos
