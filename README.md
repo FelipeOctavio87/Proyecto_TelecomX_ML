@@ -5,11 +5,16 @@ README
 
 Este proyecto forma parte del análisis de **Telecom X**, cuyo propósito principal es **predecir la cancelación de clientes (Churn)** a partir de un conjunto de variables relevantes. El estudio busca identificar patrones de comportamiento en los usuarios y apoyar la toma de decisiones estratégicas en la retención de clientes.
 
----
 
-## 🗂️ Obteniendo la data pre-procesada de la URL: "https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/preprocessed_TelecomX_data.json"
 
----
+## 🗂️ Fuentes Principales de Data (Links)
+
+https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/preprocessed_TelecomX_data.json
+https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/alta_valoracion_clientes.json
+https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/datos_artificiales_de_prueba.json
+https://raw.githubusercontent.com/FelipeOctavio87/Proyecto_TelecomX_ML/refs/heads/main/datos_artificiales_etiquetados.json
+
+
 ## 🔎 Proceso de Preparación de los Datos
 
 1. **Clasificación de variables**  
@@ -60,11 +65,15 @@ Ejemplos de visualizaciones generadas:
 
 1. **Clonar o entrar al repositorio: https://github.com/FelipeOctavio87/Proyecto_TelecomX_ML**
 
+Hacer click en el circulo ovalado rojo que ves en la foto: 
+
+<img width="1718" height="642" alt="image" src="https://github.com/user-attachments/assets/e7e6f417-81fa-40f6-92dd-57cdd745974f" />
+
+
 2. Abrir notebooks/TelecomX_ML.ipynb en Jupyter Notebook o JupyterLab.
 
 
-
-📌 Conclusiones
+📌 Conclusiones Generales
 
 El churn puede predecirse con buena precisión utilizando modelos basados en árboles y técnicas de balanceo de clases.
 
